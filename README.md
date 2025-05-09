@@ -83,9 +83,7 @@ Windows • Linux (Ubuntu, CentOS) • macOS
 
 <a   style="margin-left: 100px;" target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/11790356/vikas-katariya"><img src="https://stackoverflow.com/users/flair/11790356.png" alt="Vikas Katariya's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=VikasJKatariy&amp;show_icons=true" style="max-width:100%;"></a>
  
- <a   style="margin-left: 100px;" target="_blank" rel="noopener noreferrer" href="https://visitor-badge.glitch.me/badge?page_id=VikasJKatariya"><img src="https://visitor-badge.glitch.me/badge?page_id=VikasJKatariya" alt="Vikas Katariya's github stats" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=VikasJKatariya" style="max-width:100%;"></a>
-
-
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=VikasJKatariya&repo=github-visitors-badge&countColor=%237B1E7A)
    
 <a>
 
